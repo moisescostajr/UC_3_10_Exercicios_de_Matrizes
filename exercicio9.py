@@ -17,4 +17,4 @@ print("\nMatriz informada:")
 for elementos in matriz:
     print(elementos)
 
-print(f"\nMedia dos elementos: {media}")
+print(f"\nMedia dos elementos: {media:.2f}")
